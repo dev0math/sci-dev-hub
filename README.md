@@ -106,7 +106,7 @@ Full details are in `docs/naming-guide.md`.
 
 | Science          | Problems Added | Solutions Added | Last Updated |
 |------------------|-----------------|------------------|--------------|
-| Mathematics      | 2               | 2                | 2026-08-16   |
+| Mathematics      | 4               | 4                | 2026-08-16   |
 | Physics          | 1               | 1                | 2026-08-16   |
 | Chemistry        | 1               | 1                | 2026-08-16   |
 | Computer Science | 1               | 1                | 2026-08-16   |
