@@ -48,4 +48,4 @@ $$
 
 Scratch work supporting the B1 derivation is included as a second reference image.
 
-![Scratch work](../images/problem-001-scratchwork.jpg)
+
