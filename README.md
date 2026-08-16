@@ -1,5 +1,13 @@
 # Sci-Dev Hub
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Markdown](https://img.shields.io/badge/Docs-Markdown-000000?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![LaTeX](https://img.shields.io/badge/Math-LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/Code-C%2B%2B-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Code-Java-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Maintained by dev0math](https://img.shields.io/badge/Maintained%20by-dev0math-blueviolet)](https://github.com/dev0math)
+
 A comprehensive, open-source archive of solved scientific problems across multiple disciplines. This repository provides detailed, step-by-step solutions to challenging problems, organized for easy browsing and long-term growth.
 
 This is a long-term project. Content will be added continuously over months and years. The structure is designed to remain clean, organized, and scalable as the archive grows to hundreds or thousands of entries.
@@ -10,6 +18,16 @@ This is a long-term project. Content will be added continuously over months and 
 - Physics
 - Chemistry
 - Computer Science
+
+## Technologies & Tools
+
+| Purpose                     | Technology |
+|------------------------------|------------|
+| Documentation & content       | Markdown |
+| Mathematical & scientific notation | LaTeX |
+| Computer Science code samples | Python, C++, Java |
+| Version control & hosting     | Git, GitHub |
+| License                       | MIT License |
 
 ## Project Goals
 

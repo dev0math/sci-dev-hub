@@ -2,42 +2,42 @@
 
 **Matching Problem:** [problem-XXX.md](../problems/problem-XXX.md)
 
-**Author:** (Name or username)
+**Author:**
 
-**Date:** (YYYY-MM-DD)
+**Date:**
 
 ---
 
 ## Key Insight
 
-(State the main idea or approach behind the solution in one or two sentences.)
+
 
 ---
 
 ## Step-by-Step Solution
 
-### Step 1: (Short description)
+### Step 1:
 
-(Explanation and work, using LaTeX for equations, e.g. $E = mc^2$.)
 
-### Step 2: (Short description)
 
-(Continue steps as needed.)
+### Step 2:
+
+
 
 ---
 
 ## Final Answer
 
 $$
-\boxed{\text{Your final answer here}}
+\boxed{}
 $$
 
 ---
 
-## Verification (Optional)
+## Verification
 
-(Optional: sanity checks, unit checks, or an alternative method confirming the result.)
+
 
 ## References
 
-(Optional: any references, formulas, or external sources used.)
+
